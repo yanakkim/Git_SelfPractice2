@@ -5,4 +5,6 @@ public class HomePage {
     //Setting up homepage
 
     //menu
+
+    //more thingth
 }
